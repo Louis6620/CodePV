@@ -1,0 +1,2 @@
+df0=df0[df0['Hieu suat']>17]
+df0=df0[df0['Hieu suat']<21]
